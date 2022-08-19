@@ -27,7 +27,7 @@ h2 {
 #leftCol {
     height: 800px;
     width:15%;
-    font-size: 1.1em;
+    font-size: 1.8em;
     border-right: 2px black;
     background-color: #f1d671;
     padding: 4px 4px 4px 8px;
@@ -49,11 +49,14 @@ h2 {
     height: 800px;
     border-left: 2px black;
     background-color: teal;
-    padding: 4px 4px 4px 8px
+    padding: 4px 4px 4px 8px;
+
+    text-align: center;
 }
 
 #rightCol img {
-    width:250px;   
+    width:80%;
+    
 }
 
 #mainLayout td {
