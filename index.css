@@ -10,9 +10,9 @@ p {
     font-size: 1.8em;
 }
 
-p2 {
-    text-align: left;
+#p2 {
     color: black;
+    text-align: left;
     font-family: courier;
     font-size: 1.8em;
 }
