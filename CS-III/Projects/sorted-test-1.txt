@@ -1,0 +1,5 @@
+
+
+	USAGE: java MediocreSort <path-to-input-file>
+
+
