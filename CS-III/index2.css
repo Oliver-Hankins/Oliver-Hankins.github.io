@@ -1,0 +1,45 @@
+h1 {
+    color: white;
+    font-size: 400%;
+}
+
+p {
+    color: black;
+    text-align: center;
+    font-family: courier;
+    font-size: 1.8em;
+}
+
+.body {
+    background-color: lightgray;
+}
+
+
+img {
+    width: 25%;
+    position: relative;
+		
+	
+}
+
+
+#homeButton {
+    float: left;
+    padding: 30px
+	   
+}
+
+.topLinks {
+    float: right;
+    padding: 30px;
+}
+
+#aboutMeTextTest {
+    color: black;
+    text-align: center;
+    font-family: courier;
+    font-size: 1.8em;
+    padding: 30px 30px 30px
+    
+}
+
