@@ -16,6 +16,12 @@ p {
     font-family: courier;
     font-size: 1.0em;
 }
+#p3 {
+    color: black;
+    text-align: left;
+    font-family: courier;
+    font-size: 1.8em;
+}
 
 h2 {
     text-align: center;
