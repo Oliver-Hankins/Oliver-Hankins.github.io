@@ -103,6 +103,12 @@ h4 {
     float: right;
     padding: 30px;
 }
+.centeredLinks {
+    padding-left: 46%;
+    padding-right: 46%;
+    font-size: 2em;
+}
+
 
 #aboutMeTextTest {
     color: black;
